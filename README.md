@@ -9,6 +9,6 @@ The script must be stored in:
 ..../scripts  
 ....../keel-to-kaggle  
 
-# Create by:
+# Created by:
 [@mancuerna](https://github.com/Mancuerna)  
 [@fnavales](https://github.com/Fnavales)
