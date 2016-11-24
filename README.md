@@ -1,2 +1,14 @@
 # Keel-to-Kaggle
-Convert keel output file to kaggle input file.
+
+# Use:
+python3 keel-to-kaggle.py "file-in" "file-out"   
+(for example "file-in": Prob-result0.tst, "file-out":UGR2016_Submission.csv)
+
+The script must be stored in:   
+./experiment_folder  
+..../scripts  
+....../keel-to-kaggle  
+
+# Create by:
+[@mancuerna](https://github.com/Mancuerna)  
+[@fnavales](https://github.com/Fnavales)
